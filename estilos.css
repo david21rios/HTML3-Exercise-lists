@@ -1,0 +1,13 @@
+H1, #elemento-1{
+    color: red;
+}
+li{
+    font-size: large;
+}
+li#elemento-1{
+    font-size:2rem;
+}
+ol{
+    color: blue;
+    font-size:large;
+}
